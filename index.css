@@ -378,10 +378,10 @@ z-index: var(--z-back);
     .nav_toggle{
         display: none;
     }
-    .nav_link{
+    .nav_logo{
         color: var(--second-color);
     }
-    .nav_logo{
+    .nav_link{
         color: var(--second-color);
     }
     .home{
